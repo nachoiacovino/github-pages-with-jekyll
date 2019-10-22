@@ -1,7 +1,9 @@
 title: Github pages
+theme: minima
 author: Ignacio Iacovino
 email: nacho.iacovino@gmai.com
 description: > # this means to ignore newlines until "baseurl:"
+
   This is a description
 
 # social links
